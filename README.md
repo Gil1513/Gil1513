@@ -32,6 +32,8 @@ Personal and family finance SaaS focused on transactions, budgets, credit cards,
 **Technologies:** React, Python, FastAPI, MongoDB Atlas, Docker, Linux, and REST APIs.
 
 <a href="https://trilhafinanceiro.com/">View project →</a>
+<a href="https://github.com/Gil1513/SAAS-Financeiro-public/">View repository →</a>
+
 
 ### SARsCamp
 
