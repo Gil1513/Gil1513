@@ -82,7 +82,7 @@ The Flutter and Dart application provides campus dining menus, authenticated mea
 
 ## Contribution activity
 
-![GitHub contribution snake animation](https://github.com/Gil1513/Gil1513/raw/refs/heads/output/github-contribution-grid-snake.svg)
+![GitHub contribution snake animation](https://raw.githubusercontent.com/Gil1513/Gil1513/output/github-contribution-grid-snake.svg)
 
 ## Contact
 
