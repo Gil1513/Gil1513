@@ -20,7 +20,7 @@ I’m interested in software development and currently looking for an internship
 My main projects include:
 
 - **[Trilha Financeira](https://trilhafinanceiro.com/):** a personal and family finance SaaS built with React, Python/FastAPI, MongoDB Atlas, Docker, and a Linux VPS.
-- **[Public repository: Trilha Financeira]([https://trilhafinanceiro.com/](https://github.com/Gil1513/SAAS-Financeiro-public)):** 
+- **[Public repository: Trilha Financeira](https://github.com/Gil1513/SAAS-Financeiro-public/):** 
 - **[SARsCamp](https://github.com/ricardotadeiromero/sars-camp_mobile):** a Flutter and Dart application developed as a team capstone project at COTIL–Unicamp. The project integrated campus services and earned second place at FACITEC.
 
 ## Featured projects
