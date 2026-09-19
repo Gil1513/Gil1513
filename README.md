@@ -75,18 +75,14 @@ The Flutter and Dart application provides campus dining menus, authenticated mea
 
 ## GitHub activity
 
-![Public repositories](https://img.shields.io/github/public-repos/Gil1513?style=for-the-badge&label=Public%20repositories&color=2F81F7)
+![Public repositories](https://img.shields.io/badge/Public%20repositories-4-2F81F7?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Gil1513?style=for-the-badge&label=Followers&color=238636)
 ![Stars](https://img.shields.io/github/stars/Gil1513?style=for-the-badge&label=Stars&color=F2CC60)
 ![Last commit](https://img.shields.io/github/last-commit/Gil1513/Gil1513?style=for-the-badge&label=Last%20profile%20update&color=8957E5)
 
 ## Contribution activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gil1513/Gil1513/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gil1513/Gil1513/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Gil1513/Gil1513/output/github-contribution-grid-snake.svg" />
-</picture>
+![GitHub contribution snake animation](https://github.com/Gil1513/Gil1513/raw/refs/heads/output/github-contribution-grid-snake.svg)
 
 ## Contact
 
